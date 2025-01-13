@@ -1,6 +1,41 @@
-# API - Forum Hub
+<div align="center">
+  <img src="/Badge-Spring.png" alt="Logo" height="200" width="200">
+  <h2>
+    📚 API - Foro Hub
+  </h2>
+</div>
 
-## Description
+<div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spring Boot-3.4.1-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-17-orange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-lightgreen">
+</div>
+<br>
+
+<div align="center">
+<h2>
+🔧 Technologies Used
+</h2>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" />       
+  <img width="12" />        
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" />
+</div>
+
+# API Rest Project
+
 **Forum Hub** is a RESTful API designed to replicate the backend of a forum where participants can create and respond to questions on various topics. Inspired by the Alura platform, this project encourages collaboration among students, teachers, and moderators.
 
 The API allows for managing topics, users, and replies through CRUD (Create, Read, Update, Delete) operations, implementing best development practices and utilizing modern tools such as **Spring Boot**.
@@ -21,16 +56,7 @@ The API allows for managing topics, users, and replies through CRUD (Create, Rea
 - **Maven 3.8**
 - **Spring Boot 3.4**
 - **MySQL Database**
-
-## Technologies Used
-- **Spring Boot**: Rapid and robust application development.
-- **JWT**: Secure authentication.
-- **Flyway**: Database migration and management.
-- **MySQL**: Relational database management system.
-- **Swagger**: Interactive API documentation.
-- **Lombok**: Reduction of boilerplate code.
 ---
-
 ## Installation and Configuration
 
 1. Clon Repository
